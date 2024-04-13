@@ -7,6 +7,11 @@ Bachelors in Computer Science - Vadodara Institute of Engineering - Vadodara, In
 
 
 ### Work Experience
+Accenture North America Data Analytics and Visualization Job Simulation on Forage (April 2024)
+ * Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
+ * Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
+ * Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+
 Data Analyst Intern @ Lambton College (May 2023 - August 2023)
 - Collaborated in Cross-functional teams, contributing to innovate data strategies, fostering teamwork, and implementing data-driven solutions for business challenges.
 - Applied visionary thinking to drive business growth, conceptualizing and implementing data-driven initiatives aligned with organizational goals.
