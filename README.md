@@ -37,3 +37,14 @@ Image Semantic Segmentation
 - Transformed WRNs into fully convolutional networks for Semantic Segmentation with 25% faster inference speed.
 - Implemented global context module and high-resolution path, improving Semantic Image Segmentation accuracy by 35%.
 - Achieved competitive results on CamVid datasets with proposed approaches outperforming the state-of-the-art by 15%
+
+### Certifications
+- Google Data Analytics                                                                                                                                             
+- Data Visualisation: Empowering Business with Effective Insights                                                                                    
+- Accenture Data Analytics and Visualization                                                                                                           
+- Oracle Cloud Infrastructure                                                                          	                                           
+- Power BI Data Analyst Associate- Microsoft                                                                      		                 
+- SQL- LinkedIn Learning                                                                                            	                
+- AWS Cloud Practitioner- AWS                                                                                              	         
+- Big Data by university of San Diego - Coursera                                                           		                  
+
