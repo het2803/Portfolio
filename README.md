@@ -7,6 +7,11 @@ Bachelors in Computer Science - Vadodara Institute of Engineering - Vadodara, In
 
 
 ### Work Experience
+Data Visualisation: Empowering Business with Effective Insights on Forage (April 2024)
+- Completed a simulation involving creating data visualizations for Tata Consultancy Services
+- Prepared questions for a meeting with client senior leadership
+- Created visuals for data analysis to help executives with effective decision making
+ 
 Accenture North America Data Analytics and Visualization Job Simulation on Forage (April 2024)
  * Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
  * Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
