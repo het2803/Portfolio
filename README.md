@@ -33,7 +33,7 @@ Data Analyst @ Nivida Web Solutions (December 2020 - November 2021)
 
 ### Projects
 Image Semantic Segmentation
-•	Designed a groundbreaking Neural Network for Semantic Segmentation, delivering a 40% improvement in accuracy
-•	Transformed WRNs into fully convolutional networks for Semantic Segmentation with 25% faster inference speed.
-•	Implemented global context module and high-resolution path, improving Semantic Image Segmentation accuracy by 35%.
-•	Achieved competitive results on CamVid datasets with proposed approaches outperforming the state-of-the-art by 15%
+- Designed a groundbreaking Neural Network for Semantic Segmentation, delivering a 40% improvement in accuracy
+- Transformed WRNs into fully convolutional networks for Semantic Segmentation with 25% faster inference speed.
+- Implemented global context module and high-resolution path, improving Semantic Image Segmentation accuracy by 35%.
+- Achieved competitive results on CamVid datasets with proposed approaches outperforming the state-of-the-art by 15%
