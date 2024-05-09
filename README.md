@@ -38,6 +38,12 @@ Image Semantic Segmentation
 - Implemented global context module and high-resolution path, improving Semantic Image Segmentation accuracy by 35%.
 - Achieved competitive results on CamVid datasets with proposed approaches outperforming the state-of-the-art by 15%
 
+  Bill Payment 
+- Developed Python-based billing system enabling cash and card payments, resulting in a 30% reduction in transaction time.
+- Boosted business revenue by up to 70% through implementation of effective strategies.
+- Enabled multi-location payments and forged partnerships with local businesses, resulting in a 25% increase in customer acquisition.
+- Slashed collection costs by 50% through implementation of efficient procedures.
+
 ### Certifications
 - Google Data Analytics                                                                                                                                             
 - Data Visualisation: Empowering Business with Effective Insights                                                                                    
