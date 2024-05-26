@@ -7,15 +7,26 @@ Bachelors in Computer Science - Vadodara Institute of Engineering - Vadodara, In
 
 
 ### Work Experience
+ British Airways Data Science on Forage (May 2024)
+ - Completed a simulation focussing on how data science is a critical component of British Airways success
+ - Scraped and analysed customer review data to uncover findings
+ - Built a predictive model to understand factors that influence buying behaviour
+
+Quantium Data Analytics Job Simulation (May 2024)
+ - Completed a job simulation focused on Data Analytics and Commercial Insights for the data science team.
+ - Developed expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
+ - Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
+ - Leveraged acquired data analytics and insights from previous tasks to create
+
 Data Visualisation: Empowering Business with Effective Insights on Forage (April 2024)
 - Completed a simulation involving creating data visualizations for Tata Consultancy Services.
 - Prepared questions for a meeting with client senior leadership.
 - Created visuals for data analysis to help executives with effective decision making.
  
 Accenture North America Data Analytics and Visualization Job Simulation on Forage (April 2024)
- * Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
- * Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
- * Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
+ - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
+ - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
+ - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
 Data Analyst Intern @ Lambton College (May 2023 - August 2023)
 - Collaborated in Cross-functional teams, contributing to innovate data strategies, fostering teamwork, and implementing data-driven solutions for business challenges.
