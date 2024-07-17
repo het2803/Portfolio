@@ -7,7 +7,7 @@ Bachelors in Computer Science - Vadodara Institute of Engineering - Vadodara, In
 
 
 ### Work Experience
- Commonwealth Bank's Introduction to Data Science.
+ Commonwealth Bank's Introduction to Data Science (July 2024)
 
  - Completed a job simulation involving Data Management skills for Commonwealth Bank's Data Science team.
  - Demonstrated proficiency in creating data engineering pipelines to aggregate and extract valuable insights from datasets, optimizing data-driven decision-making.
