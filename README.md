@@ -7,6 +7,13 @@ Bachelors in Computer Science - Vadodara Institute of Engineering - Vadodara, In
 
 
 ### Work Experience
+ Commonwealth Bank's Introduction to Data Science.
+
+ - Completed a job simulation involving Data Management skills for Commonwealth Bank's Data Science team.
+ - Demonstrated proficiency in creating data engineering pipelines to aggregate and extract valuable insights from datasets, optimizing data-driven decision-making.
+ - Acquired skills in anonymizing personal data within datasets, ensuring compliance with data privacy regulations.
+ - Proposed effective data analysis approaches, particularly related to social media, and demonstrated the ability to design well-structured databases forefficient information management.
+
  British Airways Data Science on Forage (May 2024)
  - Completed a simulation focussing on how data science is a critical component of British Airways success
  - Scraped and analysed customer review data to uncover findings
